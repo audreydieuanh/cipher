@@ -15,3 +15,6 @@ In both files
 2. Change method implementation:
 Since encode and decode is mostly similar. The only difference is to add/subtract, I group it into 1 method to remove repeated code.
 
+## Resources used
+1. CSC207 labs and readings
+
